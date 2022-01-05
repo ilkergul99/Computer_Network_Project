@@ -1,0 +1,65 @@
+C:\Users\eren9\Desktop\cs408-v3\server\server\bin\Release\server.exe.config
+C:\Users\eren9\Desktop\cs408-v3\server\server\bin\Release\server.exe
+C:\Users\eren9\Desktop\cs408-v3\server\server\bin\Release\server.pdb
+C:\Users\eren9\Desktop\cs408-v3\server\server\obj\Release\server.Form1.resources
+C:\Users\eren9\Desktop\cs408-v3\server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\eren9\Desktop\cs408-v3\server\server\obj\Release\server.csproj.GenerateResource.cache
+C:\Users\eren9\Desktop\cs408-v3\server\server\obj\Release\server.csproj.CoreCompileInputs.cache
+C:\Users\eren9\Desktop\cs408-v3\server\server\obj\Release\server.exe
+C:\Users\eren9\Desktop\cs408-v3\server\server\obj\Release\server.pdb
+C:\Users\eren9\Desktop\cs408-v3\server\server\obj\Release\server.csproj.AssemblyReference.cache
+C:\Users\Hakan\Downloads\Server\server\bin\Release\server.exe.config
+C:\Users\Hakan\Downloads\Server\server\obj\Release\server.exe
+C:\Users\Hakan\Downloads\Server\server\obj\Release\server.pdb
+C:\Users\Hakan\Downloads\Server\server\bin\Release\server.exe
+C:\Users\Hakan\Downloads\Server\server\bin\Release\server.pdb
+C:\Users\Hakan\Downloads\Server\server\obj\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\Hakan\Downloads\Server\server\obj\Release\server.Form1.resources
+C:\Users\Hakan\Downloads\Server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\Hakan\Downloads\Server\server\obj\Release\server.csproj.GenerateResource.Cache
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\bin\Release\server.exe.config
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\obj\Release\server.exe
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\obj\Release\server.pdb
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\bin\Release\server.exe
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\bin\Release\server.pdb
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\obj\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\obj\Release\server.Form1.resources
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\Hakan\Desktop\Genel\SU\(4-1) Sonbahar 2021\CS408\cs408_proj_allfiles\Server\server\obj\Release\server.csproj.GenerateResource.Cache
+C:\Users\eren9\Desktop\Server\server\bin\Release\server.exe.config
+C:\Users\eren9\Desktop\Server\server\bin\Release\server.exe
+C:\Users\eren9\Desktop\Server\server\bin\Release\server.pdb
+C:\Users\eren9\Desktop\Server\server\bin\Release\Newtonsoft.Json.dll
+C:\Users\eren9\Desktop\Server\server\bin\Release\Newtonsoft.Json.xml
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.csproj.AssemblyReference.cache
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.User.resources
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.csproj.GenerateResource.cache
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.csproj.CoreCompileInputs.cache
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.csproj.CopyComplete
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.exe
+C:\Users\eren9\Desktop\Server\server\obj\Release\server.pdb
+C:\Users\Hakan\Downloads\408-step2\Server\server\bin\Release\server.exe.config
+C:\Users\Hakan\Downloads\408-step2\Server\server\obj\Release\server.exe
+C:\Users\Hakan\Downloads\408-step2\Server\server\obj\Release\server.pdb
+C:\Users\Hakan\Downloads\408-step2\Server\server\bin\Release\server.exe
+C:\Users\Hakan\Downloads\408-step2\Server\server\bin\Release\server.pdb
+C:\Users\Hakan\Downloads\408-step2\Server\server\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hakan\Downloads\408-step2\Server\server\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hakan\Downloads\408-step2\Server\server\obj\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\Hakan\Downloads\408-step2\Server\server\obj\Release\server.User.resources
+C:\Users\Hakan\Downloads\408-step2\Server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\Hakan\Downloads\408-step2\Server\server\obj\Release\server.csproj.GenerateResource.Cache
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\bin\Release\server.exe.config
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\bin\Release\server.exe
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\bin\Release\server.pdb
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\bin\Release\Newtonsoft.Json.dll
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\bin\Release\Newtonsoft.Json.xml
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.csproj.AssemblyReference.cache
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.User.resources
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.Properties.Resources.resources
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.csproj.GenerateResource.cache
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.csproj.CoreCompileInputs.cache
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.csproj.CopyComplete
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.exe
+C:\Users\eren9\Desktop\hakanb_Buyuktopcu_Hakan_Step2_v1\Server\server\obj\Release\server.pdb
